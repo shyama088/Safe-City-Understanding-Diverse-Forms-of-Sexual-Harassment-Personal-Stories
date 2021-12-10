@@ -21,6 +21,9 @@ Commenting or Not Commenting Accuracy - 79%
 Groping or Not Groping Accuracy - 82%
 Ogling or Not Ogling Accuracy - 83%
 
+![image](https://user-images.githubusercontent.com/59326106/145610335-71ae5a06-4c72-428e-a8ad-c1cb65a730b0.png)
+
+
 These results are obtained using classical ML models. They are very close to the results obtained in the research paper Deep Learning models.
 
 Model deployed on AWS
