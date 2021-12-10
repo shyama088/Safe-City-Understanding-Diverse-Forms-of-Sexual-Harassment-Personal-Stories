@@ -4,6 +4,7 @@ To automate the categorizing and evaluating several forms of sexual harassment: 
 
 This project is based on the Research paper titled "SafeCity: Understanding Diverse Forms of Sexual Harassment Personal Stories" by Sweta Karlekar, Mohit Bansal
 Results from the paper:
+
 ![image](https://user-images.githubusercontent.com/59326106/145611196-09faee14-77ba-4b6f-8287-8a022dc8a947.png)
 
 
@@ -27,7 +28,8 @@ Ogling or Not Ogling Accuracy - 83%
 ![image](https://user-images.githubusercontent.com/59326106/145610335-71ae5a06-4c72-428e-a8ad-c1cb65a730b0.png)
 
 6. Models Experimented: Logistic Regression, Support Vector Machine, Decision Tree and GBDT. Decision Tree gave the best results for Commenting,
-Groping and Ogling. Below image is for Commenting dataset. A similar result is seen for Groping and Ogling
+ Groping and Ogling. Below image is for Commenting dataset. A similar result is seen for Groping and Ogling
+ 
 ![image](https://user-images.githubusercontent.com/59326106/145610744-fcf64e9b-5ade-42a3-97fb-a2b2e30eeb6e.png)
 
 
